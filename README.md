@@ -2,12 +2,12 @@
 
 Este repositório contem um pequeno exercício prático sobre testes de mutação. Para mais detalhes sobre esse tipo de teste, consulte o nosso [artigo didático](https://engsoftmoderna.info/artigos/testes-mutacao.html) sobre o tema.
 
-## Pré-requisitos:
+## Pré-requisitos
 
 * Primeiro, clone este repositório para sua máquina local.
 * Você vai precisar de ter instalado localmente duas ferramentas: [JDK](https://www.oracle.com/br/java/technologies/downloads/) e [Maven](download).
 
-## Entendimento do Sistema
+## Entendimento do Código
 
 **Passo 1:** Analise a seguinte classe Java:
 
@@ -25,7 +25,7 @@ Como esse relatório está em HTML, você não consegue visualizá-lo diretament
 
 Feito isso, observe que foram gerados quatro mutantes, sendo que dois foram mortos (linhas com fundo verde), um sobreviveu (primeira linha com fundo vermelho) e o último mutante não foi coberto pelo teste.
 
-## Tarefa Prática:
+## Tarefa Prática
 
 Modifique o teste de unidade, acrescentando mais dois comandos `assert`, de forma que ele mate todos os quatro mutantes.
 
