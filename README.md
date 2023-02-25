@@ -4,7 +4,7 @@ Este repositório contem um pequeno exercício sobre testes de mutação. Para m
 
 **Passo 1:** Analise a seguinte classe Java:
 
-[Cliente.java]([https://github.com/mtov/demo-mutacao/blob/main/src/main/java/com/example/Cliente.java)
+[Cliente.java](https://github.com/mtov/demo-mutacao/blob/main/src/main/java/com/example/Cliente.java)
 
 **Passo 2:**  Analise também o teste de unidade dessa classe:
 
