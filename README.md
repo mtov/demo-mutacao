@@ -21,9 +21,9 @@ Este repositório contem um pequeno exercício sobre testes de mutação. Para m
 
 [Relatório Gerado pelo Pitest](./target/pit-reports/index.html)
 
-Como esse relatório está em HTML, você não consegue visualizá-lo diretamente no site do GitHub. Portanto, é melhor fazer um clone do repositório para sua máquina local.
+Como esse relatório está em HTML, você não consegue visualizá-lo diretamente no site do GitHub. Portanto, é melhor abrir o relatório usando o browser local de sua máquina.
 
-Quando conseguir abrir o relatório em um browser, você vai ver que foram gerados quatro mutantes, sendo que dois foram mortos (linhas com fundo verde), um sobreviveu (primeira linha com fundo vermelho) e o último mutante não foi coberto pelo teste.
+Feito isso, você vai ver que foram gerados quatro mutantes, sendo que dois foram mortos (linhas com fundo verde), um sobreviveu (primeira linha com fundo vermelho) e o último mutante não foi coberto pelo teste.
 
 
 **Passo 4:**  Então, modifique o teste de unidade, acrescentando mais dois comandos `assert`, de forma que ele mate todos os quatro mutantes.
