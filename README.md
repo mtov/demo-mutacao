@@ -17,7 +17,7 @@ Este repositório contem um pequeno exercício sobre testes de mutação. Para m
 Observe que esse relatório descreve que foram gerados quatro mutantes, sendo que dois foram mortos (linhas com fundo verde), um sobreviveu (primeira linha com fundo vermelho) e o último mutante não foi coberto pelo teste.
 
 
-**Passo 4:**  Então, **modifique o teste de unidade, acrescentando mais dois comandos assert, de forma que ele mate todos os quatro mutantes.**
+**Passo 4:**  Então, modifique o teste de unidade, acrescentando mais dois comandos assert, de forma que ele mate todos os quatro mutantes.
 
 Após modificar o teste, você deverá rodar o Pitest de novo. Para isso, execute o seguinte comando:
 
