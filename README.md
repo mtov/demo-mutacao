@@ -19,7 +19,7 @@ Este repositório contem um pequeno exercício sobre testes de mutação. Para m
 
 **Passo 3:**  Confira também a saída gerada pela ferramenta [Pitest](https://pitest.org/) quando executada no programa formado pela classe e teste mostrados anteriormente.
 
-[Relatório Gerado pelo Pitest](./main/target/pit-reports/index.html)
+[Relatório Gerado pelo Pitest](./target/pit-reports/index.html)
 
 Como esse relatório está em HTML, você não consegue visualizá-lo diretamente no site do GitHub. Portanto, é melhor fazer um clone do repositório para sua máquina local.
 
