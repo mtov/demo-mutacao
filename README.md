@@ -33,4 +33,6 @@ Após modificar o teste, você deverá rodar o Pitest de novo. Para isso, execut
 
 `mvn test-compile org.pitest:pitest-maven:mutationCoverage`
 
+A documentação do Pitest recomenda usar um sistema de build, como o Maven, por ser mais fácil de usar e por diminuir as chances de erros de configuração.
+
 Para conferir o resultado, abra o novo relatório gerado pelo Pitest e confira se, de fato, todos os mutantes foram mortos.
