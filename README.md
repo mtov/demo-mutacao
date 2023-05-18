@@ -27,7 +27,7 @@ Feito isso, observe que foram gerados quatro mutantes, sendo que dois foram mort
 
 ## Tarefa Prática
 
-Modifique o teste de unidade, adicionando dois comandos `assert`, de forma que ele mate todos os quatro mutantes.
+Modifique o teste de unidade, adicionando mais um comando `assert`, de forma que ele mate todos os quatro mutantes.
 
 Após modificar o teste, você deverá rodar o Pitest de novo. Para isso, execute o seguinte comando:
 
